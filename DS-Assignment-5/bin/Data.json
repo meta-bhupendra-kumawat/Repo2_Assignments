@@ -1,0 +1,39 @@
+{
+   "dictionary": [
+
+      {
+         "key": "1",
+         "value": "One",
+      },
+
+      {
+         "key": "2",
+         "value": "Two",
+      },
+      
+      {
+         "key": "3",
+         "value": "Three",
+      },
+      
+      {
+         "key": "4",
+         "value": "Four",
+      },
+      
+      {
+         "key": "5",
+         "value": "Five",
+      },
+      
+      {
+         "key": "6",
+         "value": "Six",
+      },
+      
+      {
+         "key": "7",
+         "value": "Seven",
+      }
+   ]
+}
